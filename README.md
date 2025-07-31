@@ -29,7 +29,7 @@ This project simulates a real-world pizzeria backend system using SQL. It demons
 
 The schema is fully normalized and structured for data integrity and scalability.
 
-![ER Diagram](./drawSQL-image-export-2025-07-30.png)
+![ER Diagram](./ERD/relational_database.png)
 
 ---
 
